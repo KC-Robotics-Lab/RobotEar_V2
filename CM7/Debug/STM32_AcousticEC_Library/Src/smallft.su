@@ -1,0 +1,14 @@
+../STM32_AcousticEC_Library/Src/smallft.c:58:13:drfti1	120	static
+../STM32_AcousticEC_Library/Src/smallft.c:137:13:fdrffti	24	static
+../STM32_AcousticEC_Library/Src/smallft.c:142:13:dradf2	72	static
+../STM32_AcousticEC_Library/Src/smallft.c:202:13:dradf4	120	static
+../STM32_AcousticEC_Library/Src/smallft.c:309:13:dradfg	160	static
+../STM32_AcousticEC_Library/Src/smallft.c:650:13:drftf1	104	static
+../STM32_AcousticEC_Library/Src/smallft.c:718:13:dradb2	72	static
+../STM32_AcousticEC_Library/Src/smallft.c:775:13:dradb3	120	static
+../STM32_AcousticEC_Library/Src/smallft.c:842:13:dradb4	128	static
+../STM32_AcousticEC_Library/Src/smallft.c:938:13:dradbg	160	static
+../STM32_AcousticEC_Library/Src/smallft.c:1286:13:drftb1	96	static
+../STM32_AcousticEC_Library/Src/smallft.c:1383:6:drft_forward	24	static
+../STM32_AcousticEC_Library/Src/smallft.c:1388:6:drft_backward	24	static
+../STM32_AcousticEC_Library/Src/smallft.c:1393:6:drft_init	16	static

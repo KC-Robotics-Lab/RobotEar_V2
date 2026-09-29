@@ -1,0 +1,14 @@
+../STM32_AcousticEC_Library/Src/smallft.c:58:13:drfti1	11
+../STM32_AcousticEC_Library/Src/smallft.c:137:13:fdrffti	2
+../STM32_AcousticEC_Library/Src/smallft.c:142:13:dradf2	8
+../STM32_AcousticEC_Library/Src/smallft.c:202:13:dradf4	8
+../STM32_AcousticEC_Library/Src/smallft.c:309:13:dradfg	43
+../STM32_AcousticEC_Library/Src/smallft.c:650:13:drftf1	10
+../STM32_AcousticEC_Library/Src/smallft.c:718:13:dradb2	8
+../STM32_AcousticEC_Library/Src/smallft.c:775:13:dradb3	5
+../STM32_AcousticEC_Library/Src/smallft.c:842:13:dradb4	8
+../STM32_AcousticEC_Library/Src/smallft.c:938:13:dradbg	43
+../STM32_AcousticEC_Library/Src/smallft.c:1286:13:drftb1	12
+../STM32_AcousticEC_Library/Src/smallft.c:1383:6:drft_forward	2
+../STM32_AcousticEC_Library/Src/smallft.c:1388:6:drft_backward	2
+../STM32_AcousticEC_Library/Src/smallft.c:1393:6:drft_init	1

@@ -1,0 +1,7 @@
+../STM32_AcousticEC_Library/Src/acousticEC.c:51:10:AcousticEC_Init	1
+../STM32_AcousticEC_Library/Src/acousticEC.c:69:10:AcousticEC_Data_Input	1
+../STM32_AcousticEC_Library/Src/acousticEC.c:79:10:AcousticEC_Process	1
+../STM32_AcousticEC_Library/Src/acousticEC.c:91:10:AcousticEC_setConfig	1
+../STM32_AcousticEC_Library/Src/acousticEC.c:102:10:AcousticEC_getConfig	1
+../STM32_AcousticEC_Library/Src/acousticEC.c:113:10:AcousticEC_getMemorySize	1
+../STM32_AcousticEC_Library/Src/acousticEC.c:123:10:AcousticEC_GetLibVersion	1

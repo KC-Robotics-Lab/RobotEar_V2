@@ -1,0 +1,12 @@
+../Core/Src/ADAU1466.c:7:27:ADAU1466_GetI2C	2
+../Core/Src/ADAU1466.c:15:17:ADAU1466_GetAddr	2
+../Core/Src/ADAU1466.c:23:19:ADAU1466_Write16	1
+../Core/Src/ADAU1466.c:33:19:ADAU1466_Read16	3
+../Core/Src/ADAU1466.c:50:19:ADAU1466_WriteBytes	3
+../Core/Src/ADAU1466.c:58:19:ADAU1466_ReadBytes	3
+../Core/Src/ADAU1466.c:66:6:ADAU1466_HwReset	2
+../Core/Src/ADAU1466.c:84:19:ADAU1466_WaitPllLock	4
+../Core/Src/ADAU1466.c:325:19:ADAU1466_Init_4ch_16k_TDM	2
+../Core/Src/ADAU1466.c:505:19:ADAU1466_Init_FromSigmaStudio	3
+../Core/Src/ADAU1466.c:534:6:adau1466_init	1
+../Core/Src/ADAU1466.c:540:6:pll_read	2

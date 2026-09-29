@@ -1,0 +1,4 @@
+../Core/Src/LED.c:4:6:LED_L_Init	1
+../Core/Src/LED.c:17:6:LED_L_op	10
+../Core/Src/LED.c:129:6:LED_R_Init	1
+../Core/Src/LED.c:142:6:LED_R_op	10

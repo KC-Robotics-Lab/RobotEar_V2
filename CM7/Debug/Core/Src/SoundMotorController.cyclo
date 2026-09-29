@@ -1,0 +1,12 @@
+../Core/Src/SoundMotorController.c:348:14:SoundMotor_Wrap360	3
+../Core/Src/SoundMotorController.c:363:13:SoundMotor_DebugSetTarget	2
+../Core/Src/SoundMotorController.c:389:13:SoundMotor_DebugClearTarget	1
+../Core/Src/SoundMotorController.c:396:16:SoundMotor_GetBFTargetFromFirstSound	5
+../Core/Src/SoundMotorController.c:452:26:SoundMotorController_WaitForFeedbackReady	8
+../Core/Src/SoundMotorController.c:549:26:SoundMotorController_MoveToStartupHome	8
+../Core/Src/SoundMotorController.c:679:19:SoundMotorController_Init	4
+../Core/Src/SoundMotorController.c:783:6:SoundMotorController_ClearSourceTarget	1
+../Core/Src/SoundMotorController.c:790:6:SoundMotorController_ResetTarget	1
+../Core/Src/SoundMotorController.c:805:19:SoundMotorController_SetTargetAzimuthRealtime	3
+../Core/Src/SoundMotorController.c:836:6:SoundMotorController_Task	1
+../Core/Src/SoundMotorController.c:849:6:SoundMotorController_Update	3

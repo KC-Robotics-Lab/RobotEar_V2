@@ -1,0 +1,13 @@
+C:/Users/MSI/Documents/00_KC_Project/07_speech_compass/01_work/RobotEar_odas/RobotEar_stm32h755_Tsst/00. Test/RobotEar_H755/CM7/STM32_AcousticEC_Library/Inc/defines_ec.h:359:25:my_sqrt	2
+../STM32_AcousticEC_Library/Src/echo.c:143:20:filter_dc_notch16	2
+../STM32_AcousticEC_Library/Src/echo.c:167:28:mdf_inner_prod	1
+../STM32_AcousticEC_Library/Src/echo.c:175:20:power_spectrum	2
+../STM32_AcousticEC_Library/Src/echo.c:183:20:power_spectrum_accum	3
+../STM32_AcousticEC_Library/Src/echo.c:259:20:spectral_mul_accum	5
+../STM32_AcousticEC_Library/Src/echo.c:271:20:weighted_spectral_mul_conj	3
+../STM32_AcousticEC_Library/Src/echo.c:293:20:mdf_adjust_prop	2
+../STM32_AcousticEC_Library/Src/echo.c:327:6:Echo_init	8
+../STM32_AcousticEC_Library/Src/echo.c:419:13:Echo_state_reset	9
+../STM32_AcousticEC_Library/Src/echo.c:483:6:Echo_cancellation	75
+../STM32_AcousticEC_Library/Src/echo.c:1026:6:Echo_get_residual	3
+../STM32_AcousticEC_Library/Src/echo.c:1055:5:Echo_ctrl	10

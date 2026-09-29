@@ -1,0 +1,10 @@
+C:/Users/MSI/Documents/00_KC_Project/07_speech_compass/01_work/RobotEar_odas/RobotEar_stm32h755_Tsst/00. Test/RobotEar_H755/CM7/STM32_AcousticBF_Library/Inc/defines.h:209:25:my_sqrt	2
+../STM32_AcousticBF_Library/Src/denoiser.c:115:13:conj_window	6
+../STM32_AcousticBF_Library/Src/denoiser.c:159:28:hypergeom_gain	3
+../STM32_AcousticBF_Library/Src/denoiser.c:185:28:qcurve	1
+../STM32_AcousticBF_Library/Src/denoiser.c:190:13:compute_gain_floor	2
+../STM32_AcousticBF_Library/Src/denoiser.c:206:13:denoiserstate_init	8
+../STM32_AcousticBF_Library/Src/denoiser.c:313:13:denoiser_analize	4
+../STM32_AcousticBF_Library/Src/denoiser.c:351:13:update_noise_prob	15
+../STM32_AcousticBF_Library/Src/denoiser.c:423:16:denoiser_A_run	31
+../STM32_AcousticBF_Library/Src/denoiser.c:624:16:denoiser_setup	2

@@ -1,0 +1,5 @@
+../Core/Src/PCMD3180.c:9:19:PCMD3180_Write8	2
+../Core/Src/PCMD3180.c:17:19:PCMD3180_Read8	2
+../Core/Src/PCMD3180.c:25:19:PCMD3180_WriteBytes	2
+../Core/Src/PCMD3180.c:33:19:PCMD3180_ReadBytes	2
+../Core/Src/PCMD3180.c:41:6:pcmd3180_init	1

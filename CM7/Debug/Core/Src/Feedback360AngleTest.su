@@ -1,0 +1,7 @@
+../Core/Src/Feedback360AngleTest.c:27:14:Feedback360Test_Wrap360	16	static
+../Core/Src/Feedback360AngleTest.c:42:14:Feedback360Test_AngleErrorDeg	24	static
+../Core/Src/Feedback360AngleTest.c:64:13:Feedback360Test_ApplyIndex	24	static
+../Core/Src/Feedback360AngleTest.c:78:19:Feedback360AngleTest_Init	16	static
+../Core/Src/Feedback360AngleTest.c:107:6:Feedback360AngleTest_SetManualIndex	16	static
+../Core/Src/Feedback360AngleTest.c:114:6:Feedback360AngleTest_SetAutoMode	8	static
+../Core/Src/Feedback360AngleTest.c:120:6:Feedback360AngleTest_Task	24	static

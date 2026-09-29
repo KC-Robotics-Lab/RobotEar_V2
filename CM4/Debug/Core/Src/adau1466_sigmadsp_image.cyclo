@@ -1,0 +1,3 @@
+../Core/Src/adau1466_sigmadsp_image.c:1142:26:adau1466_write_block	4
+../Core/Src/adau1466_sigmadsp_image.c:1168:26:adau1466_write_u16	1
+../Core/Src/adau1466_sigmadsp_image.c:1197:19:ADAU1466_LoadSigmaStudioImage	93

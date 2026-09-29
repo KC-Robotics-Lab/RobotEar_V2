@@ -1,0 +1,15 @@
+../STM32_AcousticBF_Library/Src/cardoid.c:105:10:Cardoid_init	24	static
+../STM32_AcousticBF_Library/Src/cardoid.c:138:10:Cardoid_runFront	40	static
+../STM32_AcousticBF_Library/Src/cardoid.c:145:10:Cardoid_runRear	40	static
+../STM32_AcousticBF_Library/Src/cardoid.c:152:10:Cardoid_setGain	24	static
+../STM32_AcousticBF_Library/Src/cardoid.c:160:10:Cardoid_getGain	24	static
+../STM32_AcousticBF_Library/Src/cardoid.c:167:10:Cardoid_updateGain	32	static
+../STM32_AcousticBF_Library/Src/cardoid.c:177:10:Cardoid_setConfig	24	static
+../STM32_AcousticBF_Library/Src/cardoid.c:188:10:Cardoid_getConfig	24	static
+../STM32_AcousticBF_Library/Src/cardoid.c:196:10:Cardoid_getMemorySize	24	static
+../STM32_AcousticBF_Library/Src/cardoid.c:207:13:s_updateGain	56	static
+../STM32_AcousticBF_Library/Src/cardoid.c:254:19:s_getCoeff	24	static
+../STM32_AcousticBF_Library/Src/cardoid.c:290:13:s_initBf	24	static
+../STM32_AcousticBF_Library/Src/cardoid.c:300:13:s_configureBf	40	static
+../STM32_AcousticBF_Library/Src/cardoid.c:313:13:s_runBf	72	static,ignoring_inline_asm
+../STM32_AcousticBF_Library/Src/cardoid.c:338:13:s_setGain	24	static

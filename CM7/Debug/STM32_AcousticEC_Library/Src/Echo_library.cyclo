@@ -1,0 +1,10 @@
+../STM32_AcousticEC_Library/Src/Echo_library.c:102:10:libSpeexAEC_GetLibVersion	1
+../STM32_AcousticEC_Library/Src/Echo_library.c:107:10:libSpeexAEC_Init	7
+../STM32_AcousticEC_Library/Src/Echo_library.c:202:10:libSpeexAEC_getMemorySize	3
+../STM32_AcousticEC_Library/Src/Echo_library.c:229:10:libSpeexAEC_setConfig	8
+../STM32_AcousticEC_Library/Src/Echo_library.c:290:10:libSpeexAEC_getConfig	2
+../STM32_AcousticEC_Library/Src/Echo_library.c:308:10:libSpeexAEC_Process	17
+../STM32_AcousticEC_Library/Src/Echo_library.c:362:10:libSpeexAEC_Data_Input	5
+../STM32_AcousticEC_Library/Src/Echo_library.c:401:6:libSpeexAEC_fft_init	1
+../STM32_AcousticEC_Library/Src/Echo_library.c:406:6:libSpeexAEC_fft	2
+../STM32_AcousticEC_Library/Src/Echo_library.c:417:6:libSpeexAEC_ifft	2
